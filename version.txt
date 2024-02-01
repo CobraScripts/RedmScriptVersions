@@ -9,5 +9,5 @@ Cobra-Voting = 1.5.0
 Cobra-AntiAfk = 1.5.0
 Cobra-ZoneManager = 1.5.0
 Cobra-ZoneGather = 1.5.0
-Cobra-Toolbox = 1.0.0
+Cobra-Toolbox = 1.0.1
 Cobra-FairPlay = 1.0.0
