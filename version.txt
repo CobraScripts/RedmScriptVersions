@@ -1,0 +1,11 @@
+Cobra-Ped = 1.5.0
+Cobra-AVS = 1.5.0
+Cobra-Music = 1.5.0
+Cobra-DamageEdit = 1.5.0
+Cobra-BlackMarket = 1.5.0
+Cobra-BlackOut = 1.5.0
+Cobra-KnockOut = 1.5.0
+Cobra-Voting = 1.5.0
+Cobra-AntiAfk = 1.5.0
+Cobra-ZoneManager = 1.5.0
+Cobra-ZoneGather = 1.5.0
